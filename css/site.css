@@ -1,3 +1,7 @@
+html {
+	background-image: url(images/backgrounds/polygon-background9.jpg);
+}
+
 body {
 	font-family: "Trebuchet MS", Verdana, sans-serif;
 	font-size: 16px;
@@ -38,3 +42,5 @@ ul#menu li a:hover {
 	color: white;
 	background-color: black;
 }
+
+
